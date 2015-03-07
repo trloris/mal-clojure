@@ -1,5 +1,5 @@
-(ns mal.core
-  (:gen-class))
+(ns mal.step0_reql
+    (:gen-class))
 
 (defn READ
   [strng]
